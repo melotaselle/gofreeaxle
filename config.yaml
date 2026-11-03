@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
+cache-dir: ~/.cache
+registry: default
